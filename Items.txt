@@ -1,0 +1,461 @@
+
+└── Generic:
+    ├── Icon:
+    │   ├── ACHIEVEMENT:
+    │   │   ├── Dark Wanderer.dds:330a000b35e0322fd10d73ed7a16d743
+    │   │   ├── Halloween Terror 2016.dds:574e89d7eeaa11701cd076e92d4ef665
+    │   │   ├── Oni.dds:480d634ba127a130ff85d73a6b378cbb
+    │   │   ├── Season 1 Competitor.dds:fbc8984e97d5de26d06c5262263761b7
+    │   │   ├── Season 1 Hero.dds:2ceed19e78bcb6a5397d0522f57a9245
+    │   │   ├── Season 2 Competitor.dds:957a392f0c9dddd342bde3ec52de88f5
+    │   │   ├── Season 2 Hero.dds:60df56b9744520487849aac297cc1f29
+    │   │   ├── Season 3 Competitor.dds:1d4db8da888e892e8c76d96d8ce329a9
+    │   │   ├── Season 3 Hero.dds:8b7d2e04bdf9a577c7b2bd080c38941b
+    │   │   ├── Season 4 Competitor.dds:8a60fbb3647023f99cb0f287fb426548
+    │   │   ├── Season 4 Hero.dds:78a6c3f91983eaa1d88f019aebc6fd34
+    │   │   ├── Summer Games 2016.dds:3a463d3585d5b470f869178ea71146a4
+    │   │   ├── Top 500.dds:b037137b6fc7595cd711198e86628321
+    │   │   ├── Winter Wonderland 2016.dds:c934a1e945a61ca9370b1c45a4658c2b
+    │   │   └── Year of the Rooster 2017.dds:431b34e54fe69c18b1f465c5f9bb0e58
+    │   ├── COMMON:
+    │   │   ├── 16-Bit Hero.dds:f958b35d6192ad7998c681d81d5278a7
+    │   │   ├── Anubis.dds:2ae67d278396f62483ce19555eae2463
+    │   │   ├── Bao.dds:2bd80e1baf367352f38562a7e5f804c7
+    │   │   ├── Barbarian.dds:7bb960e3841ae3b85c2f03b37ccc655b
+    │   │   ├── Capsule.dds:59e6bb75fd4378a5676184fbc739c87a
+    │   │   ├── Cheers.dds:228287feda3cedc28d2cc60e383a90c6
+    │   │   ├── Colossus.dds:46cf687310624087d097a07fb8d377f2
+    │   │   ├── Credit.dds:2cb75a4f49084f291b8503ae6746eebf
+    │   │   ├── Crusader.dds:55b3e9ca1ccc8185648efcd7d505c171
+    │   │   ├── Dark Lady.dds:e6754365b1e8ada111dd8c018d1e159a
+    │   │   ├── Demolition.dds:8dcbcbca001026f124f521ceb90a3436
+    │   │   ├── Demon Hunter.dds:bafac93b6d56c9f1f4a578db2ece8004
+    │   │   ├── Dominion.dds:d0ffccf016adbabd1d2b2a075f5ab03f
+    │   │   ├── Elephant.dds:3f3bf15edf217c17cdf66a6e6b3569e3
+    │   │   ├── For the Alliance.dds:5ce4bfd3d2304662d3f9699073875668
+    │   │   ├── For the Horde.dds:10731313e4d8fbb771e2380d1c770205
+    │   │   ├── From Beyond the Moon.dds:9f18c74edb78995d5ed0567f229ff6e5
+    │   │   ├── Garrosh.dds:c1d10714d65297d43baa6cce5b0e3a6e
+    │   │   ├── Happy Squid.dds:ca2806250c633f669cf55bf4e9673b34
+    │   │   ├── Hearthstone.dds:aa6066c14397d3c73401051c7bcf28dd
+    │   │   ├── Hierarch.dds:13d8704aac670222cd183266b76b9775
+    │   │   ├── Jaina.dds:65b3125dd799cf03bd786993fd862095
+    │   │   ├── Jim.dds:f1be3f915334824615cbb9dc2af92594
+    │   │   ├── Kọfị Aromo.dds:e0b9212c9d035dd6bceefaf2f2b6db07
+    │   │   ├── Lich King.dds:aca071a37185b8c10e95fcf52752d48b
+    │   │   ├── Loot Box.dds:4a79891523e3e843d700079d346e4005
+    │   │   ├── Lord of Candy.dds:2b8ebf125ee31a60cce06709774967c5
+    │   │   ├── Lord of Terror.dds:3bbcfb78b1ac22c707b8158f05305771
+    │   │   ├── Los Muertos.dds:dfb8d2a3f83bbeafaa4788eb20f21cd9
+    │   │   ├── Mama Pig's.dds:d059fb9791356172d2e82576e2a323c3
+    │   │   ├── Mariachi.dds:670d519f1b8c040493b58dacde7a9cd0
+    │   │   ├── Mech.dds:89cb718ed326e4af19575063bb44a77c
+    │   │   ├── Monk.dds:aea37f64036cc8a41af2f75e707559e8
+    │   │   ├── Nexus.dds:35913b6a8899501841c7de736c4898b4
+    │   │   ├── Pachimari.dds:42eef783cd016bfc84d71207528c7d13
+    │   │   ├── Pharaoh.dds:ac37c431e9ba5356b180feac0ee76c7e
+    │   │   ├── Protoss.dds:ca7442f6ff4f734826aa501b12204ca1
+    │   │   ├── Queen of Blades.dds:472dd462218168c3b84cfaf73becf4f7
+    │   │   ├── Ramen.dds:db2d36b724b1b0db66f722b686f27239
+    │   │   ├── Rhino.dds:127e6b91ddbfa68b2244701a055eaaa6
+    │   │   ├── Rikimaru.dds:4fcb5e83f69ae05462bf884dfdbcff84
+    │   │   ├── Route 66.dds:3311a174ccd5e5a017cda8129cac3be7
+    │   │   ├── Sakura.dds:205fc620ccd981875f6301107286bd4e
+    │   │   ├── Scooter.dds:79ee686cffa15a1a84c79c134a7322b6
+    │   │   ├── Siege Mode.dds:5d74d9baba2257b8403d89e63dee5a8a
+    │   │   ├── Six-Gun Killer.dds:ca2221eb3cb71c64d4e569af7df6b279
+    │   │   ├── Svyatogor.dds:c4a366a311c45f714848620d320fd172
+    │   │   ├── Terran.dds:34ccdb1ff4bd378dd01b65c85f8cc642
+    │   │   ├── Totem.dds:8d2e5e464ad603964a4c00a6c90897cb
+    │   │   ├── Training Bot.dds:c1260037affbb3fbb19af232e108aded
+    │   │   ├── Varian.dds:06402ac0de6e575c724a4a82ca1e6de5
+    │   │   ├── Vivi.dds:1d2ae848a00fcdf332aab1c4d59d98a6
+    │   │   ├── Witch Doctor.dds:f217b4f6283d1e5b0043b0aa700bfd12
+    │   │   ├── Wizard.dds:98aafc07146d9fdf1ced096c41ab19fa
+    │   │   └── Zerg.dds:473b9d2709218153a17384a8c6b03b86
+    │   ├── JUNKENSTEINS_REVENGE_2016:
+    │   │   ├── Bewitching.dds:cf8fb112deef0f658587467f6ff06c58
+    │   │   ├── Calavera.dds:e86bbe83227f1d9325b3d1db3c0bf3d2
+    │   │   ├── Candle.dds:9cb2111e159331b2a5d0053faf173d26
+    │   │   ├── Eyeball.dds:618205b97aed5104e902452edd29a272
+    │   │   ├── Ghostymari.dds:5ae1ae4a36a24178d2fe3431ee16cdd8
+    │   │   ├── Spider.dds:64ffc06dce41cab04e6d01ffd15341d5
+    │   │   ├── Superstition.dds:f4227d69909c186211b04d8c48f128c1
+    │   │   ├── Tombstone.dds:5e7328842106fb57f8106ce031e614ef
+    │   │   ├── Vampachimari.dds:90ce9f6c8f67346f4e1a2586250da79f
+    │   │   ├── Witch's Brew.dds:945426822a6dd7d721fd12e1ed2dfb08
+    │   │   ├── Witch's Hat.dds:04ddcc12fb3e6e5c9858fde11e176310
+    │   │   └── Wolf.dds:fa0294a516418b87a604850f49c44650
+    │   ├── STANDARD_COMMON:
+    │   │   ├── Overwatch Dark.dds:142937cef15b9da7ef9d7b32f024c658
+    │   │   ├── Overwatch Light.dds:156aa97731d0ef6175b96460a16247c2
+    │   │   └── You are not prepared.dds:02c62b30ff2638dfe49d207d7dc8ccca
+    │   ├── SUMMER_GAMES_2016:
+    │   │   ├── Australia.dds:9e1581f243a75c81c5edae4111028bb3
+    │   │   ├── Brazil.dds:242875905a064c0476c63eba04b016b2
+    │   │   ├── China.dds:544b9659b538a086fc0e33d80edd6aa8
+    │   │   ├── Egypt.dds:12bea0301f0530d9771ab8f390f4b9e7
+    │   │   ├── France.dds:974774ec9c70a4245f6d7757f8eac779
+    │   │   ├── Germany.dds:4390a7c67d9374a9c2e7c95057c636fd
+    │   │   ├── Greece.dds:e0ed0912fe932d78199ba8f74c99f111
+    │   │   ├── Japan.dds:a8a7c636d8a60c0566f2d6d139b836b8
+    │   │   ├── Mexico.dds:81b292792516011c483d1e4df93184b7
+    │   │   ├── Nepal.dds:9b95ecb4650fb39394f17afa88d35474
+    │   │   ├── Numbani.dds:c1f785da3a300bf3257c7a12797bbd50
+    │   │   ├── Russia.dds:bd1590ca7f32cd13f4f494a85d155c3a
+    │   │   ├── South Korea.dds:5ae71940aa193bff52b45f65f81ea538
+    │   │   ├── Sweden.dds:582d2d33b9decd422ed1bc01c28f01d9
+    │   │   ├── Switzerland.dds:c5f073e880f911c1f8e8d172509504bd
+    │   │   ├── United Kingdom.dds:502362b3593f4c23ca9b5b6f77f47ab0
+    │   │   └── United States of America.dds:663d8fa1ca7d4c53f8c4779932ba260a
+    │   └── WINTER_WONDERLAND_2016:
+    │       ├── Bells.dds:4805157dc2ca4cec206e8de00c5df73e
+    │       ├── Dreidel.dds:d11bc8a2d031f375930bcf68d6a76653
+    │       ├── Mochi.dds:d608f40014d9c65465cd172de5b15c02
+    │       ├── Peppermint.dds:c23ba9cc36c66a1e382bf018fb4ceb4c
+    │       ├── Snow Globe.dds:f850739eb0e1bbb4adfa5e3925b88758
+    │       └── Wreath.dds:d41d8cd98f00b204e9800998ecf8427e
+    ├── Portrait:
+    │   └── STANDARD_COMMON:
+    │       ├── Tier 1 (11).dds:45f4a080e28736260548c096f7a0db5e
+    │       ├── Tier 1 (12).dds:16f3b9c3df03a3540baf6c2aba319bdf
+    │       ├── Tier 1 (13).dds:7f6fedcf7915e405407eb37663f270f0
+    │       ├── Tier 1 (14).dds:26a953c2d923b982fea0e9f5c10eb227
+    │       ├── Tier 1 (15).dds:940dc4c31c2e88d8fa016cf50d5dc766
+    │       ├── Tier 1 (16).dds:00740cb7d24eb650c0ffc15a8616c192
+    │       ├── Tier 1 (17).dds:b43fca24f5dd358525956631f6cc2636
+    │       ├── Tier 1 (18).dds:8af79157c583e62eb3f8c2ea391426fc
+    │       ├── Tier 1 (19).dds:a006ea59b0f69c3f3d449ca8335a0d8d
+    │       ├── Tier 1 (20).dds:211c3e6216dd088432d70915723442b7
+    │       ├── Tier 1 (21).dds:45f4a080e28736260548c096f7a0db5e
+    │       ├── Tier 1 (22).dds:16f3b9c3df03a3540baf6c2aba319bdf
+    │       ├── Tier 1 (23).dds:7f6fedcf7915e405407eb37663f270f0
+    │       ├── Tier 1 (24).dds:26a953c2d923b982fea0e9f5c10eb227
+    │       ├── Tier 1 (25).dds:940dc4c31c2e88d8fa016cf50d5dc766
+    │       ├── Tier 1 (26).dds:00740cb7d24eb650c0ffc15a8616c192
+    │       ├── Tier 1 (27).dds:b43fca24f5dd358525956631f6cc2636
+    │       ├── Tier 1 (28).dds:8af79157c583e62eb3f8c2ea391426fc
+    │       ├── Tier 1 (29).dds:a006ea59b0f69c3f3d449ca8335a0d8d
+    │       ├── Tier 1 (30).dds:211c3e6216dd088432d70915723442b7
+    │       ├── Tier 1 (31).dds:45f4a080e28736260548c096f7a0db5e
+    │       ├── Tier 1 (32).dds:16f3b9c3df03a3540baf6c2aba319bdf
+    │       ├── Tier 1 (33).dds:7f6fedcf7915e405407eb37663f270f0
+    │       ├── Tier 1 (34).dds:26a953c2d923b982fea0e9f5c10eb227
+    │       ├── Tier 1 (35).dds:940dc4c31c2e88d8fa016cf50d5dc766
+    │       ├── Tier 1 (36).dds:00740cb7d24eb650c0ffc15a8616c192
+    │       ├── Tier 1 (37).dds:b43fca24f5dd358525956631f6cc2636
+    │       ├── Tier 1 (38).dds:8af79157c583e62eb3f8c2ea391426fc
+    │       ├── Tier 1 (39).dds:a006ea59b0f69c3f3d449ca8335a0d8d
+    │       ├── Tier 1 (40).dds:211c3e6216dd088432d70915723442b7
+    │       ├── Tier 1 (41).dds:45f4a080e28736260548c096f7a0db5e
+    │       ├── Tier 1 (42).dds:16f3b9c3df03a3540baf6c2aba319bdf
+    │       ├── Tier 1 (43).dds:7f6fedcf7915e405407eb37663f270f0
+    │       ├── Tier 1 (44).dds:26a953c2d923b982fea0e9f5c10eb227
+    │       ├── Tier 1 (45).dds:940dc4c31c2e88d8fa016cf50d5dc766
+    │       ├── Tier 1 (46).dds:00740cb7d24eb650c0ffc15a8616c192
+    │       ├── Tier 1 (47).dds:b43fca24f5dd358525956631f6cc2636
+    │       ├── Tier 1 (48).dds:8af79157c583e62eb3f8c2ea391426fc
+    │       ├── Tier 1 (49).dds:a006ea59b0f69c3f3d449ca8335a0d8d
+    │       ├── Tier 1 (50).dds:211c3e6216dd088432d70915723442b7
+    │       ├── Tier 1 (51).dds:45f4a080e28736260548c096f7a0db5e
+    │       ├── Tier 1 (52).dds:16f3b9c3df03a3540baf6c2aba319bdf
+    │       ├── Tier 1 (53).dds:7f6fedcf7915e405407eb37663f270f0
+    │       ├── Tier 1 (54).dds:26a953c2d923b982fea0e9f5c10eb227
+    │       ├── Tier 1 (55).dds:940dc4c31c2e88d8fa016cf50d5dc766
+    │       ├── Tier 1 (56).dds:00740cb7d24eb650c0ffc15a8616c192
+    │       ├── Tier 1 (57).dds:b43fca24f5dd358525956631f6cc2636
+    │       ├── Tier 1 (58).dds:8af79157c583e62eb3f8c2ea391426fc
+    │       ├── Tier 1 (59).dds:a006ea59b0f69c3f3d449ca8335a0d8d
+    │       ├── Tier 1 (60).dds:211c3e6216dd088432d70915723442b7
+    │       ├── Tier 1 (61).dds:45f4a080e28736260548c096f7a0db5e
+    │       ├── Tier 1 (62).dds:16f3b9c3df03a3540baf6c2aba319bdf
+    │       ├── Tier 1 (63).dds:7f6fedcf7915e405407eb37663f270f0
+    │       ├── Tier 1 (64).dds:26a953c2d923b982fea0e9f5c10eb227
+    │       ├── Tier 1 (65).dds:940dc4c31c2e88d8fa016cf50d5dc766
+    │       ├── Tier 1 (66).dds:00740cb7d24eb650c0ffc15a8616c192
+    │       ├── Tier 1 (67).dds:b43fca24f5dd358525956631f6cc2636
+    │       ├── Tier 1 (68).dds:8af79157c583e62eb3f8c2ea391426fc
+    │       ├── Tier 1 (69).dds:a006ea59b0f69c3f3d449ca8335a0d8d
+    │       ├── Tier 1 (70).dds:211c3e6216dd088432d70915723442b7
+    │       ├── Tier 1 Star 1.dds:f08a6a0a6902117c870d7f9f4de5e862
+    │       ├── Tier 1 Star 2.dds:4a153a28a5885d710316100ba17b9248
+    │       ├── Tier 1 Star 3.dds:64b020dcba817ff46cfb19fde4539a31
+    │       ├── Tier 1 Star 4.dds:00675bbe37beb60eb5fd10a66246dc76
+    │       ├── Tier 1 Star 5.dds:4e72b0b4ddef9e0a793fd3e26306019a
+    │       ├── Tier 2 (100).dds:968ada4780d43044d08b651c55929253
+    │       ├── Tier 2 (101).dds:4ed9f40f2079f90f539c8ba97f288427
+    │       ├── Tier 2 (102).dds:292c45411e8bf0e2940a2d5406ddabdd
+    │       ├── Tier 2 (103).dds:3da84c68a84e4ea5526b6a4486621e39
+    │       ├── Tier 2 (104).dds:d6c35a8631bd6d3a1f9006f37240c26a
+    │       ├── Tier 2 (105).dds:13b42d26eecd855f6a23969532535c3e
+    │       ├── Tier 2 (106).dds:994ae65427abd852a8fb55d756a2fa10
+    │       ├── Tier 2 (107).dds:cb490f53f1ac77f76185423632b82a67
+    │       ├── Tier 2 (108).dds:8decd5715d02e7eb117ff9fdf06ccbbc
+    │       ├── Tier 2 (109).dds:2c2b32650e6b2ad57524a4dfa2499b3f
+    │       ├── Tier 2 (110).dds:968ada4780d43044d08b651c55929253
+    │       ├── Tier 2 (111).dds:4ed9f40f2079f90f539c8ba97f288427
+    │       ├── Tier 2 (112).dds:292c45411e8bf0e2940a2d5406ddabdd
+    │       ├── Tier 2 (113).dds:3da84c68a84e4ea5526b6a4486621e39
+    │       ├── Tier 2 (114).dds:d6c35a8631bd6d3a1f9006f37240c26a
+    │       ├── Tier 2 (115).dds:13b42d26eecd855f6a23969532535c3e
+    │       ├── Tier 2 (116).dds:994ae65427abd852a8fb55d756a2fa10
+    │       ├── Tier 2 (117).dds:cb490f53f1ac77f76185423632b82a67
+    │       ├── Tier 2 (118).dds:8decd5715d02e7eb117ff9fdf06ccbbc
+    │       ├── Tier 2 (119).dds:2c2b32650e6b2ad57524a4dfa2499b3f
+    │       ├── Tier 2 (120).dds:968ada4780d43044d08b651c55929253
+    │       ├── Tier 2 (121).dds:4ed9f40f2079f90f539c8ba97f288427
+    │       ├── Tier 2 (122).dds:292c45411e8bf0e2940a2d5406ddabdd
+    │       ├── Tier 2 (123).dds:3da84c68a84e4ea5526b6a4486621e39
+    │       ├── Tier 2 (124).dds:d6c35a8631bd6d3a1f9006f37240c26a
+    │       ├── Tier 2 (125).dds:13b42d26eecd855f6a23969532535c3e
+    │       ├── Tier 2 (126).dds:994ae65427abd852a8fb55d756a2fa10
+    │       ├── Tier 2 (127).dds:cb490f53f1ac77f76185423632b82a67
+    │       ├── Tier 2 (128).dds:8decd5715d02e7eb117ff9fdf06ccbbc
+    │       ├── Tier 2 (129).dds:2c2b32650e6b2ad57524a4dfa2499b3f
+    │       ├── Tier 2 (130).dds:968ada4780d43044d08b651c55929253
+    │       ├── Tier 2 (71).dds:4ed9f40f2079f90f539c8ba97f288427
+    │       ├── Tier 2 (72).dds:292c45411e8bf0e2940a2d5406ddabdd
+    │       ├── Tier 2 (73).dds:3da84c68a84e4ea5526b6a4486621e39
+    │       ├── Tier 2 (74).dds:d6c35a8631bd6d3a1f9006f37240c26a
+    │       ├── Tier 2 (75).dds:13b42d26eecd855f6a23969532535c3e
+    │       ├── Tier 2 (76).dds:994ae65427abd852a8fb55d756a2fa10
+    │       ├── Tier 2 (77).dds:cb490f53f1ac77f76185423632b82a67
+    │       ├── Tier 2 (78).dds:8decd5715d02e7eb117ff9fdf06ccbbc
+    │       ├── Tier 2 (79).dds:2c2b32650e6b2ad57524a4dfa2499b3f
+    │       ├── Tier 2 (80).dds:968ada4780d43044d08b651c55929253
+    │       ├── Tier 2 (81).dds:4ed9f40f2079f90f539c8ba97f288427
+    │       ├── Tier 2 (82).dds:292c45411e8bf0e2940a2d5406ddabdd
+    │       ├── Tier 2 (83).dds:3da84c68a84e4ea5526b6a4486621e39
+    │       ├── Tier 2 (84).dds:d6c35a8631bd6d3a1f9006f37240c26a
+    │       ├── Tier 2 (85).dds:13b42d26eecd855f6a23969532535c3e
+    │       ├── Tier 2 (86).dds:994ae65427abd852a8fb55d756a2fa10
+    │       ├── Tier 2 (87).dds:cb490f53f1ac77f76185423632b82a67
+    │       ├── Tier 2 (88).dds:8decd5715d02e7eb117ff9fdf06ccbbc
+    │       ├── Tier 2 (89).dds:2c2b32650e6b2ad57524a4dfa2499b3f
+    │       ├── Tier 2 (90).dds:968ada4780d43044d08b651c55929253
+    │       ├── Tier 2 (91).dds:4ed9f40f2079f90f539c8ba97f288427
+    │       ├── Tier 2 (92).dds:292c45411e8bf0e2940a2d5406ddabdd
+    │       ├── Tier 2 (93).dds:3da84c68a84e4ea5526b6a4486621e39
+    │       ├── Tier 2 (94).dds:d6c35a8631bd6d3a1f9006f37240c26a
+    │       ├── Tier 2 (95).dds:13b42d26eecd855f6a23969532535c3e
+    │       ├── Tier 2 (96).dds:994ae65427abd852a8fb55d756a2fa10
+    │       ├── Tier 2 (97).dds:cb490f53f1ac77f76185423632b82a67
+    │       ├── Tier 2 (98).dds:8decd5715d02e7eb117ff9fdf06ccbbc
+    │       ├── Tier 2 (99).dds:2c2b32650e6b2ad57524a4dfa2499b3f
+    │       ├── Tier 2 Star 1.dds:d6961993545f6bc9fd4e4ed29befbaf1
+    │       ├── Tier 2 Star 2.dds:0e027461795ff39bd51b553e0b550c90
+    │       ├── Tier 2 Star 3.dds:b7a5eab254448cd250dcb6d7504b4857
+    │       ├── Tier 2 Star 4.dds:2deec4e65be5e72ed6e57914f5b7ffc3
+    │       ├── Tier 2 Star 5.dds:fd65c112f09245e924edd1f015de9847
+    │       ├── Tier 3 (131).dds:8c9db9d9e4393a829f45987cb7f0a0b1
+    │       ├── Tier 3 (132).dds:9cd55d24f335d8d71a466f0afdd9f192
+    │       ├── Tier 3 (133).dds:b483167507eab0f7074a0aaa208b4f3d
+    │       ├── Tier 3 (134).dds:c1176578a9848f42305c04bd60ce6cd4
+    │       ├── Tier 3 (135).dds:6f7bd4a7f0de7f3a2db8293343c168c8
+    │       ├── Tier 3 (136).dds:78fac8d3a01f53f82dacbc8bafb4213c
+    │       ├── Tier 3 (137).dds:e614692b003ebb40ba98795f458fe74b
+    │       ├── Tier 3 (138).dds:d0010c18fc5afcbf659b854eb7fdf6fd
+    │       ├── Tier 3 (139).dds:d599d2e84e47602f8d28a860f70f97c1
+    │       ├── Tier 3 (140).dds:95b62c9d6e2c690e10c3d251ae3cc2a7
+    │       ├── Tier 3 (141).dds:8c9db9d9e4393a829f45987cb7f0a0b1
+    │       ├── Tier 3 (142).dds:9cd55d24f335d8d71a466f0afdd9f192
+    │       ├── Tier 3 (143).dds:b483167507eab0f7074a0aaa208b4f3d
+    │       ├── Tier 3 (144).dds:c1176578a9848f42305c04bd60ce6cd4
+    │       ├── Tier 3 (145).dds:6f7bd4a7f0de7f3a2db8293343c168c8
+    │       ├── Tier 3 (146).dds:78fac8d3a01f53f82dacbc8bafb4213c
+    │       ├── Tier 3 (147).dds:e614692b003ebb40ba98795f458fe74b
+    │       ├── Tier 3 (148).dds:d0010c18fc5afcbf659b854eb7fdf6fd
+    │       ├── Tier 3 (149).dds:d599d2e84e47602f8d28a860f70f97c1
+    │       ├── Tier 3 (150).dds:95b62c9d6e2c690e10c3d251ae3cc2a7
+    │       ├── Tier 3 (151).dds:8c9db9d9e4393a829f45987cb7f0a0b1
+    │       ├── Tier 3 (152).dds:9cd55d24f335d8d71a466f0afdd9f192
+    │       ├── Tier 3 (153).dds:b483167507eab0f7074a0aaa208b4f3d
+    │       ├── Tier 3 (154).dds:c1176578a9848f42305c04bd60ce6cd4
+    │       ├── Tier 3 (155).dds:6f7bd4a7f0de7f3a2db8293343c168c8
+    │       ├── Tier 3 (156).dds:78fac8d3a01f53f82dacbc8bafb4213c
+    │       ├── Tier 3 (157).dds:e614692b003ebb40ba98795f458fe74b
+    │       ├── Tier 3 (158).dds:d0010c18fc5afcbf659b854eb7fdf6fd
+    │       ├── Tier 3 (159).dds:d599d2e84e47602f8d28a860f70f97c1
+    │       ├── Tier 3 (160).dds:95b62c9d6e2c690e10c3d251ae3cc2a7
+    │       ├── Tier 3 (161).dds:8c9db9d9e4393a829f45987cb7f0a0b1
+    │       ├── Tier 3 (162).dds:9cd55d24f335d8d71a466f0afdd9f192
+    │       ├── Tier 3 (163).dds:b483167507eab0f7074a0aaa208b4f3d
+    │       ├── Tier 3 (164).dds:c1176578a9848f42305c04bd60ce6cd4
+    │       ├── Tier 3 (165).dds:6f7bd4a7f0de7f3a2db8293343c168c8
+    │       ├── Tier 3 (166).dds:78fac8d3a01f53f82dacbc8bafb4213c
+    │       ├── Tier 3 (167).dds:e614692b003ebb40ba98795f458fe74b
+    │       ├── Tier 3 (168).dds:d0010c18fc5afcbf659b854eb7fdf6fd
+    │       ├── Tier 3 (169).dds:d599d2e84e47602f8d28a860f70f97c1
+    │       ├── Tier 3 (170).dds:95b62c9d6e2c690e10c3d251ae3cc2a7
+    │       ├── Tier 3 (171).dds:8c9db9d9e4393a829f45987cb7f0a0b1
+    │       ├── Tier 3 (172).dds:9cd55d24f335d8d71a466f0afdd9f192
+    │       ├── Tier 3 (173).dds:b483167507eab0f7074a0aaa208b4f3d
+    │       ├── Tier 3 (174).dds:c1176578a9848f42305c04bd60ce6cd4
+    │       ├── Tier 3 (175).dds:6f7bd4a7f0de7f3a2db8293343c168c8
+    │       ├── Tier 3 (176).dds:78fac8d3a01f53f82dacbc8bafb4213c
+    │       ├── Tier 3 (177).dds:e614692b003ebb40ba98795f458fe74b
+    │       ├── Tier 3 (178).dds:d0010c18fc5afcbf659b854eb7fdf6fd
+    │       ├── Tier 3 (179).dds:d599d2e84e47602f8d28a860f70f97c1
+    │       ├── Tier 3 (180).dds:95b62c9d6e2c690e10c3d251ae3cc2a7
+    │       ├── Tier 3 (181).dds:8c9db9d9e4393a829f45987cb7f0a0b1
+    │       ├── Tier 3 (182).dds:9cd55d24f335d8d71a466f0afdd9f192
+    │       ├── Tier 3 (183).dds:b483167507eab0f7074a0aaa208b4f3d
+    │       ├── Tier 3 (184).dds:c1176578a9848f42305c04bd60ce6cd4
+    │       ├── Tier 3 (185).dds:6f7bd4a7f0de7f3a2db8293343c168c8
+    │       ├── Tier 3 (186).dds:78fac8d3a01f53f82dacbc8bafb4213c
+    │       ├── Tier 3 (187).dds:e614692b003ebb40ba98795f458fe74b
+    │       ├── Tier 3 (188).dds:d0010c18fc5afcbf659b854eb7fdf6fd
+    │       ├── Tier 3 (189).dds:d599d2e84e47602f8d28a860f70f97c1
+    │       ├── Tier 3 (190).dds:95b62c9d6e2c690e10c3d251ae3cc2a7
+    │       ├── Tier 3 Star 1.dds:3725cb1386f94f3839c3a827399640b2
+    │       ├── Tier 3 Star 2.dds:a5feafd42f4058fd96eddb7b246749dc
+    │       ├── Tier 3 Star 3.dds:0e11443511c2dea28f394581c06badc0
+    │       ├── Tier 3 Star 4.dds:a779c3de877d1f7ba29475c7e626ec4b
+    │       ├── Tier 3 Star 5.dds:beb98e5136c15209a397f29f924602ce
+    │       ├── Tier 4 (191).dds:b933bf8f7673e4ab699d5b23cb5e23cd
+    │       ├── Tier 4 (192).dds:2a24188679255a3e2a5d3888b667b94d
+    │       ├── Tier 4 (193).dds:4aa1f10706a3bd6e87826d06446444d7
+    │       ├── Tier 4 (194).dds:1acdaa10a0cf7f6b0a5a4b392629de81
+    │       ├── Tier 4 (195).dds:ed758639193e60572af2941f6ec983f2
+    │       ├── Tier 4 (196).dds:9ff64b7cb073b8a662509aea5c13885f
+    │       ├── Tier 4 (197).dds:427c872c939aa399b9684d3a348e175f
+    │       ├── Tier 4 (198).dds:b8e0798a6cb9b15c515243796de44705
+    │       ├── Tier 4 (199).dds:f4f8808180a5c4f0d9432984740709e9
+    │       ├── Tier 4 (200).dds:73d89d0f9638f5f476d1fb8b0ef1b319
+    │       ├── Tier 4 (201).dds:b933bf8f7673e4ab699d5b23cb5e23cd
+    │       ├── Tier 4 (202).dds:2a24188679255a3e2a5d3888b667b94d
+    │       ├── Tier 4 (203).dds:4aa1f10706a3bd6e87826d06446444d7
+    │       ├── Tier 4 (204).dds:1acdaa10a0cf7f6b0a5a4b392629de81
+    │       ├── Tier 4 (205).dds:ed758639193e60572af2941f6ec983f2
+    │       ├── Tier 4 (206).dds:9ff64b7cb073b8a662509aea5c13885f
+    │       ├── Tier 4 (207).dds:427c872c939aa399b9684d3a348e175f
+    │       ├── Tier 4 (208).dds:b8e0798a6cb9b15c515243796de44705
+    │       ├── Tier 4 (209).dds:f4f8808180a5c4f0d9432984740709e9
+    │       ├── Tier 4 (210).dds:73d89d0f9638f5f476d1fb8b0ef1b319
+    │       ├── Tier 4 (211).dds:b933bf8f7673e4ab699d5b23cb5e23cd
+    │       ├── Tier 4 (212).dds:2a24188679255a3e2a5d3888b667b94d
+    │       ├── Tier 4 (213).dds:4aa1f10706a3bd6e87826d06446444d7
+    │       ├── Tier 4 (214).dds:1acdaa10a0cf7f6b0a5a4b392629de81
+    │       ├── Tier 4 (215).dds:ed758639193e60572af2941f6ec983f2
+    │       ├── Tier 4 (216).dds:9ff64b7cb073b8a662509aea5c13885f
+    │       ├── Tier 4 (217).dds:427c872c939aa399b9684d3a348e175f
+    │       ├── Tier 4 (218).dds:b8e0798a6cb9b15c515243796de44705
+    │       ├── Tier 4 (219).dds:f4f8808180a5c4f0d9432984740709e9
+    │       ├── Tier 4 (220).dds:73d89d0f9638f5f476d1fb8b0ef1b319
+    │       ├── Tier 4 (221).dds:b933bf8f7673e4ab699d5b23cb5e23cd
+    │       ├── Tier 4 (222).dds:2a24188679255a3e2a5d3888b667b94d
+    │       ├── Tier 4 (223).dds:4aa1f10706a3bd6e87826d06446444d7
+    │       ├── Tier 4 (224).dds:1acdaa10a0cf7f6b0a5a4b392629de81
+    │       ├── Tier 4 (225).dds:ed758639193e60572af2941f6ec983f2
+    │       ├── Tier 4 (226).dds:9ff64b7cb073b8a662509aea5c13885f
+    │       ├── Tier 4 (227).dds:427c872c939aa399b9684d3a348e175f
+    │       ├── Tier 4 (228).dds:b8e0798a6cb9b15c515243796de44705
+    │       ├── Tier 4 (229).dds:f4f8808180a5c4f0d9432984740709e9
+    │       ├── Tier 4 (230).dds:73d89d0f9638f5f476d1fb8b0ef1b319
+    │       ├── Tier 4 (231).dds:b933bf8f7673e4ab699d5b23cb5e23cd
+    │       ├── Tier 4 (232).dds:2a24188679255a3e2a5d3888b667b94d
+    │       ├── Tier 4 (233).dds:4aa1f10706a3bd6e87826d06446444d7
+    │       ├── Tier 4 (234).dds:1acdaa10a0cf7f6b0a5a4b392629de81
+    │       ├── Tier 4 (235).dds:ed758639193e60572af2941f6ec983f2
+    │       ├── Tier 4 (236).dds:9ff64b7cb073b8a662509aea5c13885f
+    │       ├── Tier 4 (237).dds:427c872c939aa399b9684d3a348e175f
+    │       ├── Tier 4 (238).dds:b8e0798a6cb9b15c515243796de44705
+    │       ├── Tier 4 (239).dds:f4f8808180a5c4f0d9432984740709e9
+    │       ├── Tier 4 (240).dds:73d89d0f9638f5f476d1fb8b0ef1b319
+    │       ├── Tier 4 (241).dds:b933bf8f7673e4ab699d5b23cb5e23cd
+    │       ├── Tier 4 (242).dds:2a24188679255a3e2a5d3888b667b94d
+    │       ├── Tier 4 (243).dds:4aa1f10706a3bd6e87826d06446444d7
+    │       ├── Tier 4 (244).dds:1acdaa10a0cf7f6b0a5a4b392629de81
+    │       ├── Tier 4 (245).dds:ed758639193e60572af2941f6ec983f2
+    │       ├── Tier 4 (246).dds:9ff64b7cb073b8a662509aea5c13885f
+    │       ├── Tier 4 (247).dds:427c872c939aa399b9684d3a348e175f
+    │       ├── Tier 4 (248).dds:b8e0798a6cb9b15c515243796de44705
+    │       ├── Tier 4 (249).dds:f4f8808180a5c4f0d9432984740709e9
+    │       ├── Tier 4 (250).dds:73d89d0f9638f5f476d1fb8b0ef1b319
+    │       ├── Tier 4 Star 1.dds:3725cb1386f94f3839c3a827399640b2
+    │       ├── Tier 4 Star 2.dds:a5feafd42f4058fd96eddb7b246749dc
+    │       ├── Tier 4 Star 3.dds:0e11443511c2dea28f394581c06badc0
+    │       ├── Tier 4 Star 4.dds:a779c3de877d1f7ba29475c7e626ec4b
+    │       └── Tier 4 Star 5.dds:beb98e5136c15209a397f29f924602ce
+    └── Spray:
+        ├── ACHIEVEMENT:
+        │   ├── Auspicious Lion.dds:2a9466f238975c063e2ed1009b33caaa
+        │   ├── Awakened Lion.dds:bd18a50f215013a30fb109743c400c18
+        │   ├── Barbarian.dds:a7d491b6f9976913feffae8d7b85170f
+        │   ├── Beyond the Moon.dds:697e569329d615ff79e72d3bd5d38c62
+        │   ├── Crusader.dds:68a8339d45e1c729c68e8eebff9744a1
+        │   ├── Demon Hunter.dds:3f12b0160515a9c04d33b26549b17736
+        │   ├── Forge Onward.dds:f4cffe743467cd0d8629861b018e89f8
+        │   ├── GL HF.dds:9647ffbf03fcd64ba1a3aa6e1347a28c
+        │   ├── Halloween Special.dds:a51bdd75f55a4c754ed3d6b3720d147a
+        │   ├── Jail.dds:86897f5a1732667e1dd494611a0d317f
+        │   ├── Junkenstein's Revenge.dds:4bf9a02f4fd6a6eeb8d70a914db5ac0a
+        │   ├── Man and Omnic.dds:5eed10953c65730dc61256a82996dfdc
+        │   ├── Monk.dds:b7ad6a20d05dcd74228eefdd9838153a
+        │   ├── Oops.dds:244a17b41e4ed3f456ea0517812857aa
+        │   ├── Out of My Way.dds:b661d5f871ac9a1e580fb6e1266bbf83
+        │   ├── Piñata.dds:503fcf05b44836a33e435504ec84010e
+        │   ├── Red O.dds:75f6245d9941efd69fe43d7ffdd85302
+        │   ├── Red X.dds:5c4eac1fb50e395da81fee9c93b58381
+        │   ├── Respect.dds:e770757bdac60395f6ba545e62134745
+        │   ├── Rise of the Zomnics.dds:75756f91a2d22edffe9b00a987efb6fc
+        │   ├── Rise.dds:dace883f6d0cd4e9300de9597130eeb4
+        │   ├── Season 1 Competitor.dds:aba30dd5ad4905f56f52338b1b4d69dc
+        │   ├── Season 2 Competitor.dds:fb62b6bfe930fe6b2238f6bd1542d9ab
+        │   ├── Season 3 Competitor.dds:4952d1a13fb7c520ce2198e183028186
+        │   ├── Season 4 Competitor.dds:42528d5a254fa0e63c51cc9e0c62d345
+        │   ├── Snowcree.dds:99e968a0ec808c6973012e3f9effec41
+        │   ├── Snowhog.dds:3017a07950f5b2c6ccc1a9b0b1d8957e
+        │   ├── Snowmei.dds:61be3cb944f573860873c1d34ee7d74f
+        │   ├── Snowreaper.dds:5aa2a7f40197d93de690fbc510e2b0f0
+        │   ├── Sorry.dds:97d4ca0ff73a7df79f033366fb1d2b23
+        │   ├── Summer Games 2016.dds:4e2327240a40f39f9e72363fedc7d676
+        │   ├── Tea Time.dds:db34e07fc948f525f4dc8d0ed5fe2514
+        │   ├── Thanks.dds:de3215820c23387d4619d4e7416ff785
+        │   ├── The Reapening.dds:613d26bc545c821cd7149430a08fcce2
+        │   ├── Victory.dds:ccbee284f01ff960f453ab7680328093
+        │   ├── Well Played.dds:115e3833bf66cca1c75f6089b6472393
+        │   ├── Witch Doctor.dds:88eb373f92a32866cd1f8ede9f8d0f35
+        │   └── Wizard.dds:89cf8875100f3c5c46122b4d2c609c18
+        ├── COMMON:
+        │   ├── Catcher.dds:23ee4b116867002f09d50fb484b296d9
+        │   ├── Caution.dds:586b05ab5691e71b25209a045a3ba909
+        │   ├── Dance.dds:3412ea4557ef19b7ba67310c137c19e4
+        │   ├── Dark Logo.dds:9c324034ffc2dddfb389abbfd2220eff
+        │   ├── Dark Overwatch.dds:5d5ebb747ec4bce69396d649a95a8eec
+        │   ├── Dark Title.dds:4eedb0f47001c7198b5e64db07737177
+        │   ├── FotS2.dds:426e4fab8e19b13f49f4a1c9878f78bd
+        │   ├── Fuji.dds:4127d5fc1f440a37b3ad531809205e82
+        │   ├── Goldshire Pictures.dds:da790811aedb8dedb89a3d6388f4be92
+        │   ├── Leek.dds:d6b1a57109aff1835f61cf14600a5631
+        │   ├── Lumérico.dds:44b1e5d8049beb88615b0700b28512d3
+        │   ├── Numbani Statue.dds:84bc1b42ae219f0e142aec2201deb490
+        │   ├── Omnic Rights.dds:709329dc84497496ad6c013d3af67b81
+        │   ├── Overwatch Title.dds:4d373578e28dab4c0bacf85b1f672d62
+        │   ├── Overwatch.dds:d53e3a6c1208e894a085a2ff9d0f41ac
+        │   ├── Pachimari.dds:32b197712284f8ca8eee25de22f15e72
+        │   ├── Rhino.dds:05d7d35c0a9c4bd21e7d023d258275be
+        │   ├── Rikimaru.dds:606c5e6ae5612605bd8839ebd714375e
+        │   ├── Sarcophagus.dds:76c395687d7a95d524f38927da4deb88
+        │   ├── Scooter.dds:5b3d47aa2f1c1239f366af607e4d8242
+        │   ├── Scroll.dds:91242e78a60082579cd1c6440eb85c54
+        │   ├── Siege Mode.dds:79b7e0285c8616963bd4aaa80e3ab827
+        │   ├── Six-Gun Killer.dds:bbf2d5d7e2b7e14d47a1a574b9c29c5d
+        │   ├── Sol.dds:8a34205239910d6ca28e92846a9f0ba9
+        │   ├── Soulstone.dds:966170741483868683aabad8d93b428d
+        │   └── Vivi's Adventure.dds:5e6ee1335b2da560c7d6178c8cdc34ba
+        ├── JUNKENSTEINS_REVENGE_2016:
+        │   ├── Bats.dds:49020af747dcdc144e578bea5239a4d0
+        │   ├── Boo!.dds:e0756f6e705a27549da2155b87361a7e
+        │   ├── Boop!.dds:2a94559daa6acda9e8213e206b09fa8a
+        │   ├── Candyball.dds:7a656d3c302c1bd8e6d48c84c518acc0
+        │   ├── Fangs.dds:dbb096045e6a425b7a219fa8b2c1a9e3
+        │   ├── Gummy Hog.dds:7957a676e659a8265be9e56b25012b25
+        │   ├── Halloween Terror.dds:2e64d20499dd78e0ddc906253534623b
+        │   ├── Pumpkins.dds:78f458fafaa6495e3cffe7f6ae5506e7
+        │   └── Witch's Brew.dds:1328eff207db21fba0f949fc6ff2ea77
+        └── STANDARD_COMMON:
+            ├── Día de los Muertos.dds:a108ad7aa88b475a855fee6bc83e4f65
+            ├── Logo.dds:bf2a6d4275c3781567452038f0634f70
+            └── You are not prepared!.dds:1645867f02c1ad9d05255f7551c6ac1a
+15 directories, 444 files
