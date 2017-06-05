@@ -1,25 +1,27 @@
-Set language to enUS
-OverTool v1.10.1.0-git-39a67f74ff6b710352bba523b3648b7d0bdf9459
+OverTool v1.11.0.16-git-4d312e3b7592d761466f31801e8be96616d8ecab
 Initializing CASC...
+Set language to enUS
+Using Overwatch Version 1.11.1.2.36923
 Mapping...
-Warning: 211706 packageless files
+Warning: 223984 packageless files
 Adding Encryption Keys...
 Tooling...
 Cosmetics for Reaper
 	ACHIEVEMENT (4 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 		Blackwatch Reyes (Legendary Skin)
+			Gabriel Reyes was the leader of the original Overwatch strike team during the Omnic Crisis, and later commanded Blackwatch, the organization's covert ops division.
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		What are you looking at (Common Voice Line)
 		Heroic (Common Emote)
-	COMMON (57 items)
+	COMMON (60 items)
 		Reaper (Rare Icon)
 		Soul (Rare Icon)
 		Emblem (Rare Icon)
@@ -28,9 +30,11 @@ Cosmetics for Reaper
 		Not Impressed (Epic Emote)
 		Cackle (Epic Emote)
 		Take a knee (Epic Emote)
+		Shrug (Epic Emote)
 		Enigmatic (Rare Victory Pose)
 		Menacing (Rare Victory Pose)
 		Casual (Rare Victory Pose)
+		Shrug (Rare Victory Pose)
 		Executioner (Epic Heroic Intro)
 		SHADOW STEP (Epic Heroic Intro)
 		Death Blossom (Epic Heroic Intro)
@@ -53,6 +57,7 @@ Cosmetics for Reaper
 		Mariachi (Legendary Skin)
 		El Blanco (Legendary Skin)
 		Nevermore (Legendary Skin)
+			Quoth the raven, "Nevermore."
 		Plague Doctor (Legendary Skin)
 		Icon (Common Spray)
 		Psst (Common Spray)
@@ -77,6 +82,7 @@ Cosmetics for Reaper
 		Reap On (Common Spray)
 		Hellfire (Common Spray)
 		Horns (Common Spray)
+		Shrug (Common Spray)
 	SUMMER_GAMES_2016 (4 items)
 		BMX (Rare Icon)
 		BMX (Common Spray)
@@ -85,6 +91,7 @@ Cosmetics for Reaper
 	JUNKENSTEINS_REVENGE_2016 (6 items)
 		Trick or Treat (Common Spray)
 		Pumpkin (Legendary Skin)
+			In the tale of Dr. Junkenstein, the Reaper was a servant to the Witch of the Wilds, bound to serve her for some unknown reason.
 		Eternal Rest (Epic Heroic Intro)
 		R.I.P. (Rare Victory Pose)
 		The Reaper (Rare Icon)
@@ -99,31 +106,39 @@ Cosmetics for Reaper
 		Dragon Dance (Common Spray)
 		Now those are fireworks (Common Voice Line)
 	UPRISING_2017 (3 items)
-Error unknown keyname F432F0425363F250 p 0x06E02000E466B243 f 0x0250000000001082
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010D7
-Error unknown keyname F432F0425363F250 p 0x06E020003E1F0D14 f 0x02500000000010D8
+		Commando (Common Spray)
+		Amateur hour (Common Voice Line)
+		Moving on (Common Voice Line)
+	ANNIVERSARY_2017 (5 items)
+		Dance (Epic Emote)
+		No one left behind (Common Voice Line)
+		I'll see you in hell (Common Voice Line)
+		Reapiversary (Rare Icon)
+		Ace of Clubs (Common Spray)
 
 Cosmetics for Tracer
 	ACHIEVEMENT (4 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 		Slipstream (Legendary Skin)
+			Before becoming an active agent of Overwatch, Tracer was a test pilot, until a mishap with the prototype Slipstream teleporting fighter.
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		You got it (Common Voice Line)
 		Heroic (Common Emote)
-	COMMON (56 items)
+	COMMON (57 items)
 		Tracer (Rare Icon)
 		Pulse Bomb (Rare Icon)
 		Patch (Rare Icon)
 		Spin (Epic Emote)
 		Cheer (Epic Emote)
 		Having a laugh (Epic Emote)
+		Finger Guns (Epic Emote)
 		Sitting Around... (Epic Emote)
 		Salute (Rare Victory Pose)
 		Over the Shoulder (Rare Victory Pose)
@@ -198,22 +213,30 @@ Cosmetics for Tracer
 		Lion Dance (Epic Heroic Intro)
 		Rose (Epic Skin)
 	UPRISING_2017 (5 items)
-Error unknown keyname F432F0425363F250 p 0x06E0200063C69720 f 0x0250000000001080
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010BC
-Error unknown keyname F432F0425363F250 p 0x06E020000926B972 f 0x0250000000000F77
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010E5
-Error unknown keyname F432F0425363F250 p 0x06E0200009167343 f 0x02500000000010E6
+		Slipstream (Common Spray)
+		Cadet (Rare Icon)
+		Cadet Oxton (Legendary Skin)
+			Tracer was put into active duty as an Overwatch agent for the first time during the King's Row uprising.
+		Don't be daft (Common Voice Line)
+		Sorry I'm late (Common Voice Line)
+	ANNIVERSARY_2017 (6 items)
+		Charleston (Epic Emote)
+		Did I miss something? (Common Voice Line)
+		Too slow! (Common Voice Line)
+		Auxton (Rare Icon)
+		Ace of Diamonds (Common Spray)
+		Graffiti (Legendary Skin)
 
 Cosmetics for Mercy
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		I have my eye on you (Common Voice Line)
 		Heroic (Common Emote)
@@ -280,10 +303,12 @@ Cosmetics for Mercy
 		Badminton (Common Spray)
 		Piece of cake (Common Voice Line)
 		Eidgenossin (Epic Skin)
+			After finishing her education, including her MD and PhD in Switzerland, Angela Ziegler continued her research and served as head of surgery in a prominent hospital in her home country.
 	JUNKENSTEINS_REVENGE_2016 (5 items)
 		Trick or Treat (Common Spray)
 		R.I.P. (Rare Victory Pose)
 		Witch (Legendary Skin)
+			The Witch of the Wilds is a mysterious figure who appears in the tale of Dr. Junkenstein and others, offering people the object of their desire, for a price.
 		The Witch (Rare Icon)
 		Superstition (Common Voice Line)
 	WINTER_WONDERLAND_2016 (4 items)
@@ -298,22 +323,29 @@ Cosmetics for Mercy
 		Fortune (Epic Heroic Intro)
 		Fortune (Epic Skin)
 	UPRISING_2017 (5 items)
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x0250000000001072
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010B8
-Error unknown keyname F432F0425363F250 p 0x06E02000B7E2E620 f 0x0250000000000F8E
-Error unknown keyname F432F0425363F250 p 0x06E02000FC2B18E1 f 0x02500000000010D1
-Error unknown keyname F432F0425363F250 p 0x06E020002C3F7A27 f 0x02500000000010D2
+		Combat Medic (Common Spray)
+		Combat Medic (Rare Icon)
+		Combat Medic Ziegler (Legendary Skin)
+			When called upon, Mercy would don her Valkyrie swift-response suit to participate in Overwatch missions.
+		Take care of yourself (Common Voice Line)
+		Not sure why I bother (Common Voice Line)
+	ANNIVERSARY_2017 (5 items)
+		Hustle (Epic Emote)
+		Questionable Judgment (Common Voice Line)
+		You're welcome (Common Voice Line)
+		Jahrestag (Rare Icon)
+		Queen of Clubs (Common Spray)
 
 Cosmetics for Hanzo
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Expect nothing less (Common Voice Line)
 		Heroic (Common Emote)
@@ -349,7 +381,9 @@ Cosmetics for Hanzo
 		Cloud (Epic Skin)
 		Dragon (Epic Skin)
 		Young Hanzo (Legendary Skin)
+			Hanzo was the son of the former master of the Shimada clan. He had been groomed to take over leadership of the family as his father's successor.
 		Young Master (Legendary Skin)
+			Hanzo was the son of the former master of the Shimada clan. He had been groomed to take over leadership of the family as his father's successor.
 		Okami (Legendary Skin)
 		Lone Wolf (Legendary Skin)
 		Icon (Common Spray)
@@ -393,21 +427,28 @@ Cosmetics for Hanzo
 		Dragon Dance (Common Spray)
 		When the moon is full (Common Voice Line)
 	UPRISING_2017 (4 items)
-Error unknown keyname F432F0425363F250 p 0x06E020002F1DBA96 f 0x0250000000001074
-Error unknown keyname F432F0425363F250 p 0x06E02000075561F2 f 0x025000000000104C
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010C7
-Error unknown keyname F432F0425363F250 p 0x06E02000A48302A1 f 0x02500000000010C8
+		Ramen (Common Spray)
+		Training (Epic Emote)
+		Unacceptable (Common Voice Line)
+		Beauty in simplicity (Common Voice Line)
+	ANNIVERSARY_2017 (6 items)
+		Fisherman Dance (Epic Emote)
+		An Error in Judgment (Common Voice Line)
+		Just so (Common Voice Line)
+		Kinenbi (Rare Icon)
+		King of Diamonds (Common Spray)
+		Cyberninja (Legendary Skin)
 
 Cosmetics for Torbjörn
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Hard work pays off (Common Voice Line)
 		Heroic (Common Emote)
@@ -491,24 +532,31 @@ Cosmetics for Torbjörn
 		Dragon Dance (Common Spray)
 		Too hot for you? (Common Voice Line)
 	UPRISING_2017 (7 items)
-Error unknown keyname F432F0425363F250 p 0x06E02000FBC82CF6 f 0x0250000000001091
-Error unknown keyname F432F0425363F250 p 0x06E0200012300236 f 0x02500000000010BA
-Error unknown keyname F432F0425363F250 p 0x06E0200091308EE2 f 0x0250000000000F62
-Error unknown keyname F432F0425363F250 p 0x06E02000EACA9B74 f 0x025000000000103D
-Error unknown keyname F432F0425363F250 p 0x06E020006EC04891 f 0x025000000000104A
-Error unknown keyname F432F0425363F250 p 0x06E020004D7B2C61 f 0x02500000000010E3
-Error unknown keyname F432F0425363F250 p 0x06E020008EB65620 f 0x02500000000010E4
+		Brigitte (Common Spray)
+		Chief Engineer (Rare Icon)
+		Ironclad (Legendary Skin)
+		Chief Engineer Lindholm (Legendary Skin)
+			For many years, Torbjörn Lindholm served as Overwatch's chief engineer, designing many of the organization's iconic weapons and technologies.
+		My baby (Epic Heroic Intro)
+		Poor craftsman (Common Voice Line)
+		Just start hammering (Common Voice Line)
+	ANNIVERSARY_2017 (5 items)
+		Dance (Epic Emote)
+		Hear me, baby? (Common Voice Line)
+		Trust me (Common Voice Line)
+		Goldclad (Rare Icon)
+		King of Clubs (Common Spray)
 
 Cosmetics for Reinhardt
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		I salute you (Common Voice Line)
 		Heroic (Common Emote)
@@ -543,12 +591,15 @@ Cosmetics for Reinhardt
 		Cobalt (Rare Skin)
 		Paragon (Epic Skin)
 		Bundeswehr (Epic Skin)
+			At a young age, Reinhardt Wilhelm enlisted in the German armed forces, seeking glory.
 		Blackhardt (Legendary Skin)
 		Bloodhardt (Legendary Skin)
 		Lionhardt (Legendary Skin)
 		Stonehardt (Legendary Skin)
 		Balderich (Legendary Skin)
+			During the Omnic Crisis, Balderich von Adler commanded the German Crusader unit until he was killed at the battle of Eichenwalde.
 		Greifhardt (Legendary Skin)
+			After the Battle of Eichenwalde, Balderich von Adler's armor remained undisturbed for many years.
 		Icon (Common Spray)
 		Emblem (Common Spray)
 		Helm (Common Spray)
@@ -594,23 +645,31 @@ Cosmetics for Reinhardt
 		Sandy (Rare Icon)
 		Wujing (Legendary Skin)
 	UPRISING_2017 (5 items)
-Error unknown keyname F432F0425363F250 p 0x06E02000BD52ED1E f 0x0250000000001079
-Error unknown keyname F432F0425363F250 p 0x06E0200070F29339 f 0x02500000000010BB
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x0250000000000FD9
-Error unknown keyname F432F0425363F250 p 0x06E0200076E4519A f 0x02500000000010D9
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010DA
+		Poster (Common Spray)
+		Lieutenant (Rare Icon)
+		Lieutenant Wilhelm (Epic Skin)
+			Lieutenant Reinhardt Wilhelm served with distinction in his time during Overwatch, notably leading the strike team that ended the King's Row uprising.
+		Easy does it (Common Voice Line)
+		Unstoppable (Common Voice Line)
+	ANNIVERSARY_2017 (5 items)
+		Sweethardt (Epic Emote)
+		Honor! Justice! Reinhardt! (Common Voice Line)
+		Beer! (Common Voice Line)
+		Goldhardt (Rare Icon)
+		King of Hearts (Common Spray)
 
 Cosmetics for Pharah
 	ACHIEVEMENT (4 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 		Security Chief (Legendary Skin)
+			Following a sterling career in the Egyptian armed forces, Pharah joined Helix Security International as one of their chief officers.
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Security in my hands (Common Voice Line)
 		Heroic (Common Emote)
@@ -644,6 +703,7 @@ Cosmetics for Pharah
 		Titanium (Rare Skin)
 		Copper (Rare Skin)
 		Anubis (Epic Skin)
+			Pharah was assigned to protect a secure Helix AI installation in Egypt at the Temple of Anubis. While the AI was briefly able to break containment, Pharah and her team were able to subdue it.
 		Jackal (Epic Skin)
 		Mechaqueen (Legendary Skin)
 		Raptorion (Legendary Skin)
@@ -693,21 +753,28 @@ Cosmetics for Pharah
 		Dragon Dance (Common Spray)
 		I keep the peace (Common Voice Line)
 	UPRISING_2017 (4 items)
-Error unknown keyname F432F0425363F250 p 0x06E0200085E1A9BE f 0x0250000000001090
-Error unknown keyname F432F0425363F250 p 0x06E02000F9A4BF77 f 0x0250000000001061
-Error unknown keyname F432F0425363F250 p 0x06E02000AC505A9C f 0x02500000000010D5
-Error unknown keyname F432F0425363F250 p 0x06E02000F80E36A0 f 0x02500000000010D6
+		Target Practice (Common Spray)
+		Flair (Epic Emote)
+		Don't take it personally (Common Voice Line)
+		I am the Rocket Queen (Common Voice Line)
+	ANNIVERSARY_2017 (6 items)
+		Rocket Guitar (Epic Emote)
+		Fly casual (Common Voice Line)
+		Try me (Common Voice Line)
+		Anniversareeha (Rare Icon)
+		Queen of Diamonds (Common Spray)
+		Bedouin (Legendary Skin)
 
 Cosmetics for Winston
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Curious (Common Voice Line)
 		Heroic (Common Emote)
@@ -742,6 +809,7 @@ Cosmetics for Winston
 		Red Planet (Rare Skin)
 		Desert (Epic Skin)
 		Horizon (Epic Skin)
+			Most of Winston's formative years were spent as a test subject in the Horizon Lunar Colony.
 		Undersea (Legendary Skin)
 		Frogston (Legendary Skin)
 		Explorer (Legendary Skin)
@@ -792,22 +860,28 @@ Cosmetics for Winston
 		Monkey (Rare Icon)
 		Wukong (Legendary Skin)
 	UPRISING_2017 (4 items)
-Error unknown keyname F432F0425363F250 p 0x06E0200053EDF031 f 0x0250000000001084
-Error unknown keyname F432F0425363F250 p 0x06E020003A84D9A8 f 0x0250000000001059
-Error unknown keyname F432F0425363F250 p 0x06E0200087FC1479 f 0x02500000000010E9
-Error unknown keyname F432F0425363F250 p 0x06E020008F4F3994 f 0x02500000000010EA
+		Building (Common Spray)
+		Peanut Butter (Rare Victory Pose)
+		Have you seen my glasses? (Common Voice Line)
+		I have the right stuff (Common Voice Line)
+	ANNIVERSARY_2017 (5 items)
+		Dance (Epic Emote)
+		It's my time to shine! (Common Voice Line)
+		Oh yeah! (Common Voice Line)
+		Goldrilla (Rare Icon)
+		Jack of Hearts (Common Spray)
 
 Cosmetics for Widowmaker
 	ACHIEVEMENT (4 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 		Noire (Legendary Skin)
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		A single death (Common Voice Line)
 		Heroic (Common Emote)
@@ -843,7 +917,9 @@ Cosmetics for Widowmaker
 		Winter (Epic Skin)
 		Patina (Epic Skin)
 		Odile (Legendary Skin)
+			For much of her life, Amélie Lacroix was better known as an accomplished ballet dancer in Paris.
 		Odette (Legendary Skin)
+			For much of her life, Amélie Lacroix was better known as an accomplished ballet dancer in Paris.
 		Comtesse (Legendary Skin)
 		Huntress (Legendary Skin)
 		Icon (Common Spray)
@@ -889,24 +965,31 @@ Cosmetics for Widowmaker
 		Dragon Dance (Common Spray)
 		You have my attention (Common Voice Line)
 	UPRISING_2017 (5 items)
-Error unknown keyname F432F0425363F250 p 0x06E02000ED29AF63 f 0x025000000000107D
-Error unknown keyname F432F0425363F250 p 0x06E020009B94909A f 0x02500000000010BD
-Error unknown keyname F432F0425363F250 p 0x06E02000EEA1C99C f 0x025000000000103E
-Error unknown keyname F432F0425363F250 p 0x06E020001D006E1C f 0x02500000000010E7
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010E8
+		Wedding (Common Spray)
+		Lacroix (Rare Icon)
+		Talon (Legendary Skin)
+		The performance begins (Common Voice Line)
+		Your emotions (Common Voice Line)
+	ANNIVERSARY_2017 (5 items)
+		Ballet (Epic Emote)
+		What a bore (Common Voice Line)
+		Sorry (Common Voice Line)
+		D'or (Rare Icon)
+		Queen of Hearts (Common Spray)
 
 Cosmetics for Bastion
 	ACHIEVEMENT (5 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 		Overgrown (Legendary Skin)
+			Damaged in one of the battles of the Omnic Crisis, this lone Bastion unit was reactivated in the Black Forest near Eichenwalde years later.
 		BlizzCon 2016 (Epic Skin)
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Doo-woo (Common Voice Line)
 		Heroic (Common Emote)
@@ -940,6 +1023,7 @@ Cosmetics for Bastion
 		Dawn (Rare Skin)
 		Soot (Rare Skin)
 		Omnic Crisis (Epic Skin)
+			During the Omnic Crisis, Bastion units fought against humans in battles around the world.
 		Defense Matrix (Epic Skin)
 		Steambot (Legendary Skin)
 		Gearbot (Legendary Skin)
@@ -976,6 +1060,7 @@ Cosmetics for Bastion
 	JUNKENSTEINS_REVENGE_2016 (4 items)
 		Trick or Treat (Common Spray)
 		R.I.P. (Rare Victory Pose)
+			Responsible for so many deaths during the Omnic Crisis, even today Bastion units are a symbol of fear.
 		Tombstone (Epic Skin)
 		W-W-Wooooo...? (Common Voice Line)
 	WINTER_WONDERLAND_2016 (3 items)
@@ -989,21 +1074,29 @@ Cosmetics for Bastion
 		Rooster (Epic Skin)
 		Firework (Rare Victory Pose)
 	UPRISING_2017 (4 items)
-Error unknown keyname F432F0425363F250 p 0x06E02000DF907C11 f 0x0250000000001078
-Error unknown keyname F432F0425363F250 p 0x06E02000397ED93A f 0x0250000000000FE8
-Error unknown keyname F432F0425363F250 p 0x06E02000689168BE f 0x02500000000010F4
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010F5
+		Sunken (Common Spray)
+		Null Sector (Epic Skin)
+			Bastion units were reengineered and upgraded by Null Sector and deployed during the King's Row Uprising.
+		DWEE WEE WOH (Common Voice Line)
+		ZWEE-AH WHEEE DOO WOO (Common Voice Line)
+	ANNIVERSARY_2017 (6 items)
+		Robo Boogie (Epic Emote)
+		BEW-WOO BEW-WOO (Common Voice Line)
+		DOO DUN DUN WOO (Common Voice Line)
+		Goldbot (Rare Icon)
+		Ten of Clubs (Common Spray)
+		Dune Buggy (Legendary Skin)
 
 Cosmetics for Symmetra
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Such a lack of imagination (Common Voice Line)
 		Heroic (Common Emote)
@@ -1038,10 +1131,13 @@ Cosmetics for Symmetra
 		Technomancer (Rare Skin)
 		Regal (Epic Skin)
 		Utopaea (Epic Skin)
+			Designed by its most talented Architechs, Utopaea is the jewel of the Vishkar Corporation's developments around the world.
 		Devi (Legendary Skin)
 		Goddess (Legendary Skin)
 		Vishkar (Legendary Skin)
+			As one of the Vishkar Corporation's most talented architechs, Symmetra was dispatched to Rio de Janeiro to oversee their new development efforts.
 		Architech (Legendary Skin)
+			Noticed at a young age for her potential in the area of hard-light engineering, Satya Vaswani was placed in the Vishkar Corporation's academy to become a future architech.
 		Icon (Common Spray)
 		Vishkar (Common Spray)
 		Light (Common Spray)
@@ -1086,21 +1182,28 @@ Cosmetics for Symmetra
 		Good fortune (Common Voice Line)
 		Qipao (Epic Skin)
 	UPRISING_2017 (4 items)
-Error unknown keyname F432F0425363F250 p 0x06E0200061542343 f 0x0250000000001081
-Error unknown keyname F432F0425363F250 p 0x06E020006F46BAF9 f 0x025000000000105B
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010E1
-Error unknown keyname F432F0425363F250 p 0x06E02000DD273FC4 f 0x02500000000010E2
+		Student (Common Spray)
+		Light Reading (Rare Victory Pose)
+		Taken under advisement (Common Voice Line)
+		Kindly adjust (Common Voice Line)
+	ANNIVERSARY_2017 (6 items)
+		Dance (Epic Emote)
+		Setting up the car wash (Common Voice Line)
+		Your mind works (Common Voice Line)
+		Vaswanniversary (Rare Icon)
+		Nine of Diamonds (Common Spray)
+		Oasis (Legendary Skin)
 
 Cosmetics for Zenyatta
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		We are in harmony (Common Voice Line)
 		Heroic (Common Emote)
@@ -1185,10 +1288,16 @@ Cosmetics for Zenyatta
 		Sanzang (Rare Icon)
 		Sanzang (Legendary Skin)
 	UPRISING_2017 (4 items)
-Error unknown keyname F432F0425363F250 p 0x06E020004DDF2B99 f 0x0250000000001075
-Error unknown keyname F432F0425363F250 p 0x06E02000E5FAF75E f 0x0250000000001060
-Error unknown keyname F432F0425363F250 p 0x06E0200053CD58FE f 0x02500000000010ED
-Error unknown keyname F432F0425363F250 p 0x06E02000DF347BE9 f 0x02500000000010EE
+		Shell (Common Spray)
+		Perspective (Epic Heroic Intro)
+		Where you're headed (Common Voice Line)
+		Path to enlightenment (Common Voice Line)
+	ANNIVERSARY_2017 (5 items)
+		Dance (Epic Emote)
+		Existence is mysterious (Common Voice Line)
+		How disappointing (Common Voice Line)
+		Zeniversary (Rare Icon)
+		King of Spades (Common Spray)
 
 Cosmetics for Genji
 	ACHIEVEMENT (5 items)
@@ -1196,12 +1305,12 @@ Cosmetics for Genji
 		Cute (Common Spray)
 		Oni (Common Spray)
 		Oni (Legendary Skin)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		A steady blade (Common Voice Line)
 		Heroic (Common Emote)
@@ -1237,9 +1346,13 @@ Cosmetics for Genji
 		Carbon Fiber (Epic Skin)
 		Chrome (Epic Skin)
 		Young Genji (Legendary Skin)
+			The younger scion of the Shimada clan, Genji had little interest in carrying on the family's business, and spent his days on frivolous pursuits.
 		Sparrow (Legendary Skin)
+			In his youth, Genji's father, Sojiro, gave him the diminutive nickname, "Sparrow."
 		Bedouin (Legendary Skin)
+			After leaving Overwatch, Genji wandered the world, trying to come to peace with his cyborg body.
 		Nomad (Legendary Skin)
+			After leaving Overwatch, Genji wandered the world, trying to come to peace with his cyborg body.
 		Icon (Common Spray)
 		Nin (Common Spray)
 		God of War (Common Spray)
@@ -1282,23 +1395,31 @@ Cosmetics for Genji
 		Dragon Dance (Common Spray)
 		To know yourself (Common Voice Line)
 	UPRISING_2017 (6 items)
-Error unknown keyname F432F0425363F250 p 0x06E02000312F613E f 0x0250000000001085
-Error unknown keyname F432F0425363F250 p 0x06E020004FA5DC1D f 0x02500000000010B9
-Error unknown keyname F432F0425363F250 p 0x06E020003B6364FD f 0x0250000000000F91
-Error unknown keyname F432F0425363F250 p 0x06E02000E01D9528 f 0x025000000000105A
-Error unknown keyname F432F0425363F250 p 0x06E0200036CC5529 f 0x02500000000010C5
-Error unknown keyname F432F0425363F250 p 0x06E020001E29083E f 0x02500000000010C6
+		Ramen (Common Spray)
+		Cyborg (Rare Icon)
+		Blackwatch (Legendary Skin)
+			After agreeing to aid the organization, Genji was upgraded extensively by Overwatch's cyberneticists.
+		Meditate (Rare Victory Pose)
+		Another! (Common Voice Line)
+		Life and death balance (Common Voice Line)
+	ANNIVERSARY_2017 (6 items)
+		Dance (Epic Emote)
+		I'm Not Impressed (Common Voice Line)
+		You seem nice (Common Voice Line)
+		Goldborg (Rare Icon)
+		Jack of Clubs (Common Spray)
+		Sentai (Legendary Skin)
 
 Cosmetics for Roadhog
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		The apocalypse (Common Voice Line)
 		Heroic (Common Emote)
@@ -1369,6 +1490,7 @@ Cosmetics for Roadhog
 		Trick or Treat (Common Spray)
 		R.I.P. (Rare Victory Pose)
 		Junkenstein's Monster (Legendary Skin)
+			Armed with the secret of creating artificial life, Dr. Jamison Junkestein birthed a monster.
 		The Monster (Rare Icon)
 		Want some candy? (Common Voice Line)
 	WINTER_WONDERLAND_2016 (4 items)
@@ -1385,20 +1507,26 @@ Cosmetics for Roadhog
 		Feast (Epic Heroic Intro)
 		What's mine is mine (Rare Victory Pose)
 	UPRISING_2017 (3 items)
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x0250000000001083
-Error unknown keyname F432F0425363F250 p 0x06E02000F14474F9 f 0x02500000000010DB
-Error unknown keyname F432F0425363F250 p 0x06E020006E644F69 f 0x02500000000010DC
+		Chopper (Common Spray)
+		Killed for less than that (Common Voice Line)
+		She'll be right (Common Voice Line)
+	ANNIVERSARY_2017 (5 items)
+		Dance (Epic Emote)
+		I don't like talkers (Common Voice Line)
+		I'm going hog wild! (Common Voice Line)
+		Goldhog (Rare Icon)
+		Joker (Common Spray)
 
 Cosmetics for McCree
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Watch and learn (Common Voice Line)
 		Heroic (Common Emote)
@@ -1480,23 +1608,30 @@ Cosmetics for McCree
 		Dragon Dance (Common Spray)
 		Calls for a celebration (Common Voice Line)
 	UPRISING_2017 (6 items)
-Error unknown keyname F432F0425363F250 p 0x06E02000ED2CF01A f 0x025000000000108F
-Error unknown keyname F432F0425363F250 p 0x06E02000424B404B f 0x02500000000010BE
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x0250000000000D05
-Error unknown keyname F432F0425363F250 p 0x06E020003CC09F88 f 0x0250000000001058
-Error unknown keyname F432F0425363F250 p 0x06E02000963AD1D3 f 0x02500000000010CD
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010CE
+		Target Practice (Common Spray)
+		Blackwatch (Rare Icon)
+		Blackwatch (Legendary Skin)
+			A young Jesse McCree was recruited into Blackwatch after Gabriel Reyes saw his potential and gave him a choice: join Blackwatch, or rot in prison.
+		Showdown (Rare Victory Pose)
+		A man's gotta have rules (Common Voice Line)
+		The Old Fashioned Way (Common Voice Line)
+	ANNIVERSARY_2017 (5 items)
+		Line Dance (Epic Emote)
+		Buckle up (Common Voice Line)
+		Next round's on me (Common Voice Line)
+		GAMF (Rare Icon)
+		Jack of Spades (Common Spray)
 
 Cosmetics for Junkrat
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Tick-tock-tick-tock (Common Voice Line)
 		Heroic (Common Emote)
@@ -1526,9 +1661,13 @@ Cosmetics for Junkrat
 		...blow it up again (Common Voice Line)
 		Ooh, shiny (Common Voice Line)
 		Bleached (Rare Skin)
+			The destruction of the omnium in Australia and the formation of Junkertown made the Outback an even more dangerous place to live.
 		Irradiated (Rare Skin)
+			The destruction of the omnium in Australia and the formation of Junkertown made the Outback an even more dangerous place to live.
 		Rusted (Rare Skin)
+			The destruction of the omnium in Australia and the formation of Junkertown made the Outback an even more dangerous place to live.
 		Drowned (Rare Skin)
+			The destruction of the omnium in Australia and the formation of Junkertown made the Outback an even more dangerous place to live.
 		Jailbird (Epic Skin)
 		Toasted (Epic Skin)
 		Jester (Legendary Skin)
@@ -1567,6 +1706,7 @@ Cosmetics for Junkrat
 		Trick or Treat (Common Spray)
 		R.I.P. (Rare Victory Pose)
 		Dr. Junkenstein (Legendary Skin)
+			As the tale goes, Dr. Junkenstein made a deal with the Witch of the Wilds in exchange for the secret to creating life. But his triumph was short lived as he was slain by four wanderers in Adlersbrunn.
 		The Doctor (Rare Icon)
 		Happy Halloween (Common Voice Line)
 	WINTER_WONDERLAND_2016 (3 items)
@@ -1581,20 +1721,26 @@ Cosmetics for Junkrat
 		Dud? (Epic Emote)
 		Bad for Your Health (Rare Victory Pose)
 	UPRISING_2017 (3 items)
-Error unknown keyname F432F0425363F250 p 0x06E02000C9957D3F f 0x0250000000001073
-Error unknown keyname F432F0425363F250 p 0x06E02000C64193AE f 0x02500000000010C9
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010CA
+		Sidecar (Common Spray)
+		Too right (Common Voice Line)
+		Come the raw prawn (Common Voice Line)
+	ANNIVERSARY_2017 (5 items)
+		Running Rat (Epic Emote)
+		Dipstick (Common Voice Line)
+		Oops... Dropped Something (Common Voice Line)
+		Goldrat (Rare Icon)
+		Joker (Common Spray)
 
 Cosmetics for Zarya
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Strong as the mountain (Common Voice Line)
 		Heroic (Common Emote)
@@ -1632,7 +1778,9 @@ Cosmetics for Zarya
 		Industrial (Legendary Skin)
 		Cybergoth (Legendary Skin)
 		Siberian Front (Legendary Skin)
+			After her retirement from competition, Zarya enlisted in the Russian defense forces and was deployed to the Krasnoyarsk front in Siberia.
 		Arctic (Legendary Skin)
+			After her retirement from competition, Zarya enlisted in the Russian defense forces and was deployed to the Krasnoyarsk front in Siberia.
 		Icon (Common Spray)
 		Shield (Common Spray)
 		Surge (Common Spray)
@@ -1661,7 +1809,9 @@ Cosmetics for Zarya
 		Weightlifting (Common Spray)
 		No pain, no gain (Common Voice Line)
 		Champion (Legendary Skin)
+			A champion weightlifter in her home country, Zarya retired on the eve of the world championships to enlist in the Russian defense forces.
 		Weightlifter (Legendary Skin)
+			A champion weightlifter in her home country, Zarya retired on the eve of the world championships to enlist in the Russian defense forces.
 	JUNKENSTEINS_REVENGE_2016 (3 items)
 		Trick or Treat (Common Spray)
 		R.I.P. (Rare Victory Pose)
@@ -1677,22 +1827,30 @@ Cosmetics for Zarya
 		Dragon Dance (Common Spray)
 		Get pumped (Common Voice Line)
 	UPRISING_2017 (4 items)
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x025000000000107B
-Error unknown keyname F432F0425363F250 p 0x06E02000D97AEB96 f 0x0250000000001057
-Error unknown keyname F432F0425363F250 p 0x06E02000ED8DA89B f 0x02500000000010EB
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010EC
+		We can! (Common Spray)
+		This is strength (Rare Victory Pose)
+		I was born in battle (Common Voice Line)
+		Ready to give up? (Common Voice Line)
+	ANNIVERSARY_2017 (6 items)
+		Dance (Epic Emote)
+		Peace through firepower (Common Voice Line)
+		Is that all? (Common Voice Line)
+		Zaryanoversary (Rare Icon)
+		Ten of Spades (Common Spray)
+		Cyberian (Legendary Skin)
 
 Cosmetics for Soldier: 76
 	ACHIEVEMENT (4 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 		Strike Commander Morrison (Legendary Skin)
+			After the Omnic Crisis, Jack Morrison was promoted to Strike Commander of Overwatch, leading the organization for decades until it was disbanded.
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		I've still got it (Common Voice Line)
 		Heroic (Common Emote)
@@ -1730,7 +1888,9 @@ Cosmetics for Soldier: 76
 		Daredevil: 76 (Legendary Skin)
 		Stunt Rider: 76 (Legendary Skin)
 		Commando: 76 (Legendary Skin)
+			At his first opportunity, a young Jack Morrison enlisted in the American armed forces to defend his country, serving with distinction during the Omnic Crisis.
 		Night Ops: 76 (Legendary Skin)
+			At his first opportunity, a young Jack Morrison enlisted in the American armed forces to defend his country, serving with distinction during the Omnic Crisis.
 		Icon (Common Spray)
 		Helix (Common Spray)
 		Heal Up (Common Spray)
@@ -1774,21 +1934,28 @@ Cosmetics for Soldier: 76
 		Dragon Dance (Common Spray)
 		The rooster crows (Common Voice Line)
 	UPRISING_2017 (4 items)
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x025000000000107F
-Error unknown keyname F432F0425363F250 p 0x06E02000DD608391 f 0x025000000000104D
-Error unknown keyname F432F0425363F250 p 0x06E02000A2D51D1D f 0x02500000000010DD
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010DE
+		Commando (Common Spray)
+		Push-ups (Epic Emote)
+		Not getting any younger (Common Voice Line)
+		Whatever you say (Common Voice Line)
+	ANNIVERSARY_2017 (6 items)
+		Dance (Epic Emote)
+		I'm not your father (Common Voice Line)
+		You're the boss (Common Voice Line)
+		Gold Soldier (Rare Icon)
+		Ace of Spades (Common Spray)
+		Cyborg: 76 (Legendary Skin)
 
 Cosmetics for Lúcio
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		To the rhythm (Common Voice Line)
 		Heroic (Common Emote)
@@ -1822,7 +1989,9 @@ Cosmetics for Lúcio
 		Vermelho (Rare Skin)
 		Azul (Rare Skin)
 		Synaesthesia (Epic Skin)
+			Lúcio's latest album, Synaesthesia Auditiva, was a global hit.
 		Auditiva (Epic Skin)
+			Lúcio's latest album, Synaesthesia Auditiva, was a global hit.
 		Ribbit (Legendary Skin)
 		Hippityhop (Legendary Skin)
 		Breakaway (Legendary Skin)
@@ -1857,7 +2026,9 @@ Cosmetics for Lúcio
 		Juggle (Epic Emote)
 		Bicycle Kick (Epic Heroic Intro)
 		Seleção (Legendary Skin)
+			When Lúcio was younger, in addition to his first love, hockey, he also found the time to play football with the other kids in Rio de Janeiro.
 		Striker (Legendary Skin)
+			When Lúcio was younger, in addition to his first love, hockey, he also found the time to play football with the other kids in Rio de Janeiro.
 	JUNKENSTEINS_REVENGE_2016 (3 items)
 		Trick or Treat (Common Spray)
 		R.I.P. (Rare Victory Pose)
@@ -1866,29 +2037,37 @@ Cosmetics for Lúcio
 		Hockey (Common Spray)
 		Ornament (Common Spray)
 		Andes (Epic Skin)
+			When the weather gets cold, Lúcio heads to the Andes to hit the slopes.
 		Happy holidays! (Common Voice Line)
 	YEAR_OF_THE_ROOSTER_2017 (3 items)
 		Keep Ups (Common Spray)
 		Dragon Dance (Common Spray)
 		I make this look good... (Common Voice Line)
 	UPRISING_2017 (4 items)
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x0250000000001076
-Error unknown keyname F432F0425363F250 p 0x06E02000AD3CD3A5 f 0x0250000000001056
-Error unknown keyname F432F0425363F250 p 0x06E0200017634A67 f 0x02500000000010CB
-Error unknown keyname F432F0425363F250 p 0x06E02000F4F840DC f 0x02500000000010CC
+		Skates (Common Spray)
+		Handstand (Rare Victory Pose)
+		Boop (Common Voice Line)
+		Learn to take it easy (Common Voice Line)
+	ANNIVERSARY_2017 (6 items)
+		Smooth (Epic Emote)
+		Everyone gets their +1 (Common Voice Line)
+		Have some Lúcio-oh's! (Common Voice Line)
+		Lúciouro (Rare Icon)
+		Jack of Diamonds (Common Spray)
+		Jazzy (Legendary Skin)
 
 Cosmetics for D.Va
 	ACHIEVEMENT (5 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
-Error unknown keyname 061D52F86830B35D p 0x06E020003EBB0AEC f 0x025000000000104E
-Error unknown keyname 061D52F86830B35D p 0x06E020005B3EA80C f 0x0250000000001099
+		GOLDEN (Common Weapon Skin) Index 1
+		Officer (Legendary Skin)
+		Badge (Common Spray)
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Love, D.Va (Common Voice Line)
 		Heroic (Common Emote)
@@ -1926,7 +2105,9 @@ Error unknown keyname 061D52F86830B35D p 0x06E020005B3EA80C f 0x0250000000001099
 		B.Va (Legendary Skin)
 		Junebug (Legendary Skin)
 		Junker (Legendary Skin)
+			Mech battles are one of the most popular forms of entertainment in Junkertown.
 		Scavenger (Legendary Skin)
+			Mech battles are one of the most popular forms of entertainment in Junkertown.
 		Icon (Common Spray)
 		B.Ny (Common Spray)
 		Diva (Common Spray)
@@ -1955,6 +2136,7 @@ Error unknown keyname 061D52F86830B35D p 0x06E020005B3EA80C f 0x0250000000001099
 		Cycling (Common Spray)
 		I'm #1 (Common Voice Line)
 		Taegeukgi (Epic Skin)
+			During her time as a professional gamer, D.Va proudly represented her country in tournaments around the world.
 	JUNKENSTEINS_REVENGE_2016 (3 items)
 		Trick or Treat (Common Spray)
 		R.I.P. (Rare Victory Pose)
@@ -1973,21 +2155,28 @@ Error unknown keyname 061D52F86830B35D p 0x06E020005B3EA80C f 0x0250000000001099
 		Bow (Epic Emote)
 		Lucky Pouch (Rare Victory Pose)
 	UPRISING_2017 (4 items)
-Error unknown keyname F432F0425363F250 p 0x06E0200014EE73E1 f 0x025000000000107A
-Error unknown keyname F432F0425363F250 p 0x06E02000DE26479C f 0x025000000000104B
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010C3
-Error unknown keyname F432F0425363F250 p 0x06E0200099892D5D f 0x02500000000010C4
+		Handheld (Common Spray)
+		Selfie (Epic Heroic Intro)
+		Try and keep up (Common Voice Line)
+		Not taking me seriously (Common Voice Line)
+	ANNIVERSARY_2017 (6 items)
+		Dance (Epic Emote)
+		Level up! (Common Voice Line)
+		No Way (Common Voice Line)
+		Hanaversary (Rare Icon)
+		Ten of Hearts (Common Spray)
+		Cruiser (Legendary Skin)
 
 Cosmetics for Mei
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Hang in there (Common Voice Line)
 		Heroic (Common Emote)
@@ -2025,7 +2214,9 @@ Cosmetics for Mei
 		Rescue Mei (Legendary Skin)
 		Firefighter (Legendary Skin)
 		Yeti Hunter (Legendary Skin)
+			Mei travels to remote regions around the world, investigating ecopoints abandoned since Overwatch was shut down.
 		Abominable (Legendary Skin)
+			Mei travels to remote regions around the world, investigating ecopoints abandoned since Overwatch was shut down.
 		Icon (Common Spray)
 		Blaster (Common Spray)
 		Snowman (Common Spray)
@@ -2075,30 +2266,39 @@ Cosmetics for Mei
 		So Excited (Epic Emote)
 		Lucky! (Rare Victory Pose)
 	UPRISING_2017 (3 items)
-Error unknown keyname F432F0425363F250 p 0x06E020001DA431B8 f 0x0250000000001077
-Error unknown keyname F432F0425363F250 p 0x06E02000C35206E0 f 0x02500000000010CF
-Error unknown keyname F432F0425363F250 p 0x06E020009EE989EE f 0x02500000000010D0
+		Pajamas (Common Spray)
+		Science this (Common Voice Line)
+		Scientific explanation (Common Voice Line)
+	ANNIVERSARY_2017 (6 items)
+		Sunny Dance (Epic Emote)
+		So mean! Honestly... (Common Voice Line)
+		I was only trying to help (Common Voice Line)
+		May (Rare Icon)
+		Ten of Diamonds (Common Spray)
+		Beekeeper (Legendary Skin)
 
 Cosmetics for Sombra
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Playing Fair (Common Voice Line)
 		Heroic (Common Emote)
-	COMMON (59 items)
+	COMMON (61 items)
 		Sombra (Rare Icon)
 		Skull (Rare Icon)
 		Hacker (Rare Icon)
 		Amused (Epic Emote)
 		Masterpiece (Epic Emote)
 		Hold On (Epic Emote)
+		Boop (Epic Emote)
+		Sit (Epic Emote)
 		Kneeling (Rare Victory Pose)
 		Rising (Rare Victory Pose)
 		Hacked (Rare Victory Pose)
@@ -2115,6 +2315,7 @@ Cosmetics for Sombra
 		Good one (Common Voice Line)
 		Cool (Common Voice Line)
 		Just squishing a bug (Common Voice Line)
+		Boop (Common Voice Line)
 		Cidro (Rare Skin)
 		Incendio (Rare Skin)
 		Mar (Rare Skin)
@@ -2122,7 +2323,9 @@ Cosmetics for Sombra
 		Glitch (Epic Skin)
 		Virus (Epic Skin)
 		Los Muertos (Legendary Skin)
+			Orphaned after the Omnic Crisis, a young Sombra found a willing buyer for her hacking ability in Los Muertos.
 		Azúcar (Legendary Skin)
+			Orphaned after the Omnic Crisis, a young Sombra found a willing buyer for her hacking ability in Los Muertos.
 		Cyberspace (Legendary Skin)
 		Augmented (Legendary Skin)
 		Marionette (Common Spray)
@@ -2151,7 +2354,6 @@ Cosmetics for Sombra
 		Puzzle (Common Spray)
 		Behind You (Common Spray)
 		Icon (Common Spray)
-		Boop (Common Voice Line)
 	WINTER_WONDERLAND_2016 (4 items)
 		Puppet (Common Spray)
 		Ornament (Common Spray)
@@ -2163,20 +2365,26 @@ Cosmetics for Sombra
 		You're easily impressed (Common Voice Line)
 		Sparklers (Rare Victory Pose)
 	UPRISING_2017 (3 items)
-Error unknown keyname F432F0425363F250 p 0x06E02000477F1A05 f 0x025000000000107C
-Error unknown keyname F432F0425363F250 p 0x06E020002575387E f 0x02500000000010DF
-Error unknown keyname F432F0425363F250 p 0x06E020005A871AA7 f 0x02500000000010E0
+		Espresso (Common Spray)
+		Don't be a coward (Common Voice Line)
+		I'd love to stay and chat (Common Voice Line)
+	ANNIVERSARY_2017 (5 items)
+		Dance (Epic Emote)
+		I need a drink (Common Voice Line)
+		Were you done talking? (Common Voice Line)
+		Aniversario (Rare Icon)
+		Queen of Spades (Common Spray)
 
 Cosmetics for Ana
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Justice delivered (Common Voice Line)
 		Heroic (Common Emote)
@@ -2210,11 +2418,15 @@ Cosmetics for Ana
 		Garnet (Rare Skin)
 		Peridot (Rare Skin)
 		Merciful (Epic Skin)
+			Ana's biotic rifle uses a modified version of Mercy's healing technology, though the weapon was created against the doctor's wishes.
 		Shrike (Epic Skin)
+			Recently, Ana has operated under the alias of "Shrike" and is wanted for espionage, assault, and theft in Egypt.
 		Wasteland (Legendary Skin)
 		Wadjet (Legendary Skin)
 		Captain Amari (Legendary Skin)
+			Captain Ana Amari was Strike Commander Morrison's second in command of Overwatch.
 		Horus (Legendary Skin)
+			Ana's call sign was "Horus" when she served in the Egyptian military during the Omnic Crisis.
 		Old Soldier (Common Spray)
 		Ana (Common Spray)
 		Action (Common Spray)
@@ -2260,30 +2472,38 @@ Cosmetics for Ana
 		Tal (Epic Skin)
 		Folded hands (Rare Victory Pose)
 	UPRISING_2017 (3 items)
-Error unknown keyname F432F0425363F250 p 0x06E0200077B5A0D6 f 0x025000000000106D
-Error unknown keyname F432F0425363F250 p 0x06E0200066B71754 f 0x02500000000010C1
-Error unknown keyname F432F0425363F250 p 0x06E02000CA1844B9 f 0x02500000000010C2
+		Newborn (Common Spray)
+		Damn (Common Voice Line)
+		The Ghost Watches (Common Voice Line)
+	ANNIVERSARY_2017 (5 items)
+		Dance (Epic Emote)
+		The adults are talking (Common Voice Line)
+		Follow me (Common Voice Line)
+		Anaversary (Rare Icon)
+		Ace of Hearts (Common Spray)
 
 Cosmetics for Orisa
 	ACHIEVEMENT (3 items)
 		Pixel (Common Spray)
 		Cute (Common Spray)
-		GOLDEN (Common Weapon Skin)
+		GOLDEN (Common Weapon Skin) Index 1
 	STANDARD_COMMON (7 items)
 		Heroic (Common Victory Pose)
 		Heroic (Common Heroic Intro)
 		RANDOM (Common Heroic Intro)
-		DEFAULT (Common Weapon Skin)
+		DEFAULT (Common Weapon Skin) Index 0
 		Classic (Common Skin)
 		Following My Programming (Common Voice Line)
 		Heroic (Common Emote)
-	COMMON (55 items)
+	COMMON (57 items)
 		Orisa (Rare Icon)
 		Protector (Rare Icon)
 		Efi (Rare Icon)
 		Kicking Dirt (Epic Emote)
 		Halt! (Epic Emote)
 		Cheer (Epic Emote)
+		Laugh (Epic Emote)
+		Sit (Epic Emote)
 		Halt! (Rare Victory Pose)
 		Confident (Rare Victory Pose)
 		Flex (Rare Victory Pose)
@@ -2306,6 +2526,7 @@ Cosmetics for Orisa
 		Twilight (Rare Skin)
 		Camouflage (Epic Skin)
 		OR15 (Epic Skin)
+			Originally built to protect Numbani, the OR15 defense bots were destroyed and decommissioned after a battle with Doomfist. A young Efi Oladele would purchase the parts of the bots to build Orisa.
 		Protector (Legendary Skin)
 		Carbon Fiber (Legendary Skin)
 		Dynastinae (Legendary Skin)
@@ -2334,13 +2555,44 @@ Cosmetics for Orisa
 		Heroes (Common Spray)
 		Unmoving (Common Spray)
 	UPRISING_2017 (5 items)
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x025000000000108E
-Error unknown keyname F432F0425363F250 p 0x06E02000807F55BE f 0x02500000000010B7
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x0250000000000F71
-Error unknown keyname F432F0425363F250 p 0x0000000000000000 f 0x02500000000010D3
-Error unknown keyname F432F0425363F250 p 0x06E02000CE92CB93 f 0x02500000000010D4
+		Flower (Common Spray)
+		OR14-NS (Rare Icon)
+		Null Sector (Legendary Skin)
+			During the King's Row Uprising, Null Sector employed redesigned and upgraded OR14 Idina bots to secure the power station.
+		Error: division by 0 (Common Voice Line)
+		Functionality still in beta (Common Voice Line)
+	ANNIVERSARY_2017 (5 items)
+		Dance (Epic Emote)
+		Your Compliance (Common Voice Line)
+		Satsified with protection (Common Voice Line)
+		Aurisa (Rare Icon)
+		Nine of Spades (Common Spray)
 
-Error unknown keyname F432F0425363F250 p 0x06E00000BAFAB2A1 f 0x02E0000000000173
-Error unknown keyname F432F0425363F250 p 0x06E00000E021991C f 0x02E0000000000178
-Error unknown keyname F432F0425363F250 p 0x06E000004E49088D f 0x02E0000000000179
-Error unknown keyname F432F0425363F250 p 0x06E000003410D59B f 0x02E000000000017C
+Cosmetics for Eradicator
+	ACHIEVEMENT (4 items)
+		(Untitled-000000001088) (Common Victory Pose)
+		(Untitled-000000001087) (Common Victory Pose)
+		(Untitled-000000001089) (Common Victory Pose)
+		(Untitled-000000001070) (Common Victory Pose)
+
+Cosmetics for Slicer
+	ACHIEVEMENT (4 items)
+		(Untitled-000000001088) (Common Victory Pose)
+		(Untitled-000000001087) (Common Victory Pose)
+		(Untitled-000000001089) (Common Victory Pose)
+		(Untitled-000000001070) (Common Victory Pose)
+
+Cosmetics for Nulltrooper
+	ACHIEVEMENT (4 items)
+		(Untitled-000000001088) (Common Victory Pose)
+		(Untitled-000000001087) (Common Victory Pose)
+		(Untitled-000000001089) (Common Victory Pose)
+		(Untitled-000000001070) (Common Victory Pose)
+
+Cosmetics for Detonator
+	ACHIEVEMENT (4 items)
+		(Untitled-000000001088) (Common Victory Pose)
+		(Untitled-000000001087) (Common Victory Pose)
+		(Untitled-000000001089) (Common Victory Pose)
+		(Untitled-000000001070) (Common Victory Pose)
+

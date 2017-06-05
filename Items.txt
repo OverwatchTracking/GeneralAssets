@@ -2,8 +2,10 @@
 └── Generic:
     ├── Icon:
     │   ├── ACHIEVEMENT:
+    │   │   ├── Anniversary 2017.dds:9b019eaaa5163b826209e7a5e45b235d
     │   │   ├── Dark Wanderer.dds:330a000b35e0322fd10d73ed7a16d743
     │   │   ├── Halloween Terror 2016.dds:574e89d7eeaa11701cd076e92d4ef665
+    │   │   ├── Law.dds:c086293bf2a0a1782f6b1f4eb12b1ce1
     │   │   ├── Oni.dds:480d634ba127a130ff85d73a6b378cbb
     │   │   ├── Season 1 Competitor.dds:fbc8984e97d5de26d06c5262263761b7
     │   │   ├── Season 1 Hero.dds:2ceed19e78bcb6a5397d0522f57a9245
@@ -13,8 +15,11 @@
     │   │   ├── Season 3 Hero.dds:8b7d2e04bdf9a577c7b2bd080c38941b
     │   │   ├── Season 4 Competitor.dds:8a60fbb3647023f99cb0f287fb426548
     │   │   ├── Season 4 Hero.dds:78a6c3f91983eaa1d88f019aebc6fd34
+    │   │   ├── Season 5 Competitor.dds:faeb68f1fb6a9c457697aba357d55233
+    │   │   ├── Season 5 Hero.dds:994bbbc13696eee046f3e05a39085383
     │   │   ├── Summer Games 2016.dds:3a463d3585d5b470f869178ea71146a4
     │   │   ├── Top 500.dds:b037137b6fc7595cd711198e86628321
+    │   │   ├── Uprising 2017.dds:9f574f2f3ac3be9a4dbe4096a1e3b6fe
     │   │   ├── Winter Wonderland 2016.dds:c934a1e945a61ca9370b1c45a4658c2b
     │   │   └── Year of the Rooster 2017.dds:431b34e54fe69c18b1f465c5f9bb0e58
     │   ├── COMMON:
@@ -381,10 +386,12 @@
         ├── ACHIEVEMENT:
         │   ├── Auspicious Lion.dds:2a9466f238975c063e2ed1009b33caaa
         │   ├── Awakened Lion.dds:bd18a50f215013a30fb109743c400c18
+        │   ├── B73-NS.dds:1738a58fcddb1a3367b32d846359c328
         │   ├── Barbarian.dds:a7d491b6f9976913feffae8d7b85170f
         │   ├── Beyond the Moon.dds:697e569329d615ff79e72d3bd5d38c62
         │   ├── Crusader.dds:68a8339d45e1c729c68e8eebff9744a1
         │   ├── Demon Hunter.dds:3f12b0160515a9c04d33b26549b17736
+        │   ├── Eradicator.dds:82752c6bdd2c6f3b25f89da3bcd51674
         │   ├── Forge Onward.dds:f4cffe743467cd0d8629861b018e89f8
         │   ├── GL HF.dds:9647ffbf03fcd64ba1a3aa6e1347a28c
         │   ├── Halloween Special.dds:a51bdd75f55a4c754ed3d6b3720d147a
@@ -392,7 +399,10 @@
         │   ├── Junkenstein's Revenge.dds:4bf9a02f4fd6a6eeb8d70a914db5ac0a
         │   ├── Man and Omnic.dds:5eed10953c65730dc61256a82996dfdc
         │   ├── Monk.dds:b7ad6a20d05dcd74228eefdd9838153a
+        │   ├── Nullmari.dds:0bdcc15f508de8ad939b70eff6aced90
+        │   ├── Nulltrooper.dds:2c649eb36ff4fb40f77f98c45ad8db35
         │   ├── Oops.dds:244a17b41e4ed3f456ea0517812857aa
+        │   ├── OR14-NS.dds:43a38ae005f190d9838f241111ace653
         │   ├── Out of My Way.dds:b661d5f871ac9a1e580fb6e1266bbf83
         │   ├── Piñata.dds:503fcf05b44836a33e435504ec84010e
         │   ├── Red O.dds:75f6245d9941efd69fe43d7ffdd85302
@@ -404,6 +414,8 @@
         │   ├── Season 2 Competitor.dds:fb62b6bfe930fe6b2238f6bd1542d9ab
         │   ├── Season 3 Competitor.dds:4952d1a13fb7c520ce2198e183028186
         │   ├── Season 4 Competitor.dds:42528d5a254fa0e63c51cc9e0c62d345
+        │   ├── Season 5 Competitor.dds:126f1b025e9880420c87b7f718885ac9
+        │   ├── Slicer.dds:15ad6aad43fffecfbe9917a2edc59a39
         │   ├── Snowcree.dds:99e968a0ec808c6973012e3f9effec41
         │   ├── Snowhog.dds:3017a07950f5b2c6ccc1a9b0b1d8957e
         │   ├── Snowmei.dds:61be3cb944f573860873c1d34ee7d74f
@@ -458,4 +470,4 @@
             ├── Día de los Muertos.dds:a108ad7aa88b475a855fee6bc83e4f65
             ├── Logo.dds:bf2a6d4275c3781567452038f0634f70
             └── You are not prepared!.dds:1645867f02c1ad9d05255f7551c6ac1a
-15 directories, 444 files
+15 directories, 456 files
